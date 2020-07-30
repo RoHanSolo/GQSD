@@ -1,2 +1,2 @@
 # GQSD
-Grover's Quantum Database Search on Microsoft Quantum Development Kit
+Grover's Quantum Search for Database on Microsoft Quantum Development Kit
